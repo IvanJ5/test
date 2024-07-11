@@ -1,4 +1,4 @@
 "use script";
 
 console.log("script.js");
-console.log("v.01");
+console.log("v.02");
